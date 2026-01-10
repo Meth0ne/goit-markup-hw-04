@@ -235,6 +235,16 @@ display: block;
     color: #434455;
 }
 
+.icon-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 264px;
+    height: 112px;
+    border: 1px solid #8e8f99;
+    border-radius: 4px;
+    background: #f4f4fd;
+
 
 /*----------TEAM----------*/
 

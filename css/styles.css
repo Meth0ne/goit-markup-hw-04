@@ -102,11 +102,11 @@ padding: 24px 0;
 display: block;
 }
 
-.header-menu-link .current{
+.header-menu-link{
     position: relative;
 }
 
-.header-menu-link .current::after {
+.header-menu-link::after {
     content: "";
     position: absolute;
     left: 0;
